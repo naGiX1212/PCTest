@@ -16,9 +16,6 @@ Año 2025
 
 ## EJERCICIO 1
 Instalación del ambiente
-El presente ejercicio busca realizar la instalación del ambiente para el desarrollo
-del trabajo práctico. A continuación se listará una serie de aplicaciones gratuitas
-a instalar:
 1. 
     ![vscode](./img/vscode.png)
 2. 

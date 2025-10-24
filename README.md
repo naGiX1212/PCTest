@@ -6,7 +6,7 @@ INDICE
 
 
 
-
+---
 EJERCICIO 2
 
 1. ¿Qué es un servidor HTTP?
@@ -25,7 +25,7 @@ dando ejemplo de estructuras posibles.
 10.Explicar brevemente el estándar REST Full
 11. ¿Qué son los headers en un request? ¿Para qué se utiliza el key
 Content-type en un header?
-
+---
 
 EJERCICIO 3
 
@@ -42,8 +42,9 @@ EJERCICIO 3
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 
-
+---
 EJERCICIO 4
+---
 EJERCICIO 5
 
 1. Lead
@@ -57,11 +58,7 @@ EJERCICIO 5
 9. Case
 10.Article
 
-
-
-
-
-
+---
 
 EJERCICIO 6
 Responder las siguientes preguntas brevemente sobre:
@@ -106,3 +103,4 @@ K. ¿Qué es un Proceso Batch?
 L. ¿Qué es Kanban?
 M. ¿Qué es un ERP?
 N. ¿Salesforce es un ERP?
+

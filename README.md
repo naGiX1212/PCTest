@@ -22,7 +22,7 @@ página?
 8. Explicar brevemente qué son las estructuras de datos JSON y XML
 dando ejemplo de estructuras posibles.
 9. Explicar brevemente el estándar SOAP
-10.Explicar brevemente el estándar REST Full
+10. Explicar brevemente el estándar REST Full
 11. ¿Qué son los headers en un request? ¿Para qué se utiliza el key
 Content-type en un header?
 ---
@@ -56,7 +56,7 @@ Content-type en un header?
 7. Quote
 8. Asset
 9. Case
-10.Article
+10. Article
 
 ---
 

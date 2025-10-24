@@ -24,6 +24,7 @@ Instalación del ambiente
 ## Git Bash
 ![git](./gif/gitbash.gif)
 ---
+
 ## EJERCICIO 2
 
 1. ¿Qué es un servidor HTTP?

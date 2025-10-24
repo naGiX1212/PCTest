@@ -1,7 +1,11 @@
-# PC3
-INDICE
+![logo](./img/logo.jpeg)
 
-## Table of Contents
+# PC3
+
+Joel Murillo
+Año 2025
+
+## Tabla de indices
 - [Ejercicio 1](#ejercicio-1)
 - [Ejercicio 2](#ejercicio-2)
 - [Ejercicio 3](#ejercicio-3)

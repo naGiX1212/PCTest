@@ -7,7 +7,7 @@ INDICE
 
 
 ---
-EJERCICIO 2
+## EJERCICIO 2
 
 1. ¿Qué es un servidor HTTP?
 2. ¿Qué son los verbos HTTP? Mencionar los más conocidos

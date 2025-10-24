@@ -10,7 +10,25 @@ INDICE
 - [Ejercicio 6](#ejercicio-6)
 
 
-
+## EJERCICIO 1
+Instalación del ambiente
+El presente ejercicio busca realizar la instalación del ambiente para el desarrollo
+del trabajo práctico. A continuación se listará una serie de aplicaciones gratuitas
+a instalar:
+1. Instalar el IDE Visual Studio Code: Un IDE (Entorno de desarrollo
+integrado), es una aplicación que nos brinda facilidades al momento de
+generar código. Dentro de Pro Contacto utilizamos Visual Studio Code
+para los proyectos relacionados a aplicaciones web y móviles. El mismo
+permite trabajar con varios lenguajes tales como: HTML, CSS, C#,
+Javascript, Apex, NodeJS, Angular, IONIC, React, Typescript, etc.
+2. Instalar GIT y GIT Bash: Git es una aplicación utilizada para el control de
+versionado de código. En otras palabras, es una suerte de “disco” en
+donde se guardarán los distintos files que componen nuestra aplicación
+(ejemplo: index.html, estilos.css, etc). La gran ventaja de GIT es que al
+momento de subir una versión nueva de un archivo, genera un “backup”
+de la versión anterior para poder ser restaurado cuando se desee.
+Además, el código se encuentra en la “nube”, por lo que puede ser
+accedido y descargado desde cualquier lugar que tenga acceso a internet
 ---
 ## EJERCICIO 2
 

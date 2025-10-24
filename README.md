@@ -22,7 +22,7 @@ a instalar:
 1. 
     ![vscode](./img/vscode.png)
 2. 
-    ![git](./img/gitbash.png)
+    ![git](./gif/gitbash.gif)
 ---
 ## EJERCICIO 2
 

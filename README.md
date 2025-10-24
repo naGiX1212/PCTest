@@ -1,6 +1,6 @@
 ![logo](./img/logo.jpeg)
 
-# PC3
+# PC
 
 Joel Murillo
 Año 2025
@@ -62,6 +62,8 @@ Content-type en un header?
 
 ---
 ## EJERCICIO 4
+[![salesForce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ytp32goxlbrkzkzx8h)
+
 ---
 ## EJERCICIO 5
 

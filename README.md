@@ -27,7 +27,7 @@ dando ejemplo de estructuras posibles.
 Content-type en un header?
 ---
 
-EJERCICIO 3
+## EJERCICIO 3
 
 1. Realizar un request GET a la URL:
 ![getBefore](./img/getPostmanBefore.png)
@@ -43,9 +43,9 @@ EJERCICIO 3
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 
 ---
-EJERCICIO 4
+## EJERCICIO 4
 ---
-EJERCICIO 5
+## EJERCICIO 5
 
 1. Lead
 2. Account
@@ -60,7 +60,7 @@ EJERCICIO 5
 
 ---
 
-EJERCICIO 6
+## EJERCICIO 6
 Responder las siguientes preguntas brevemente sobre:
 Soluciones de Salesforce
 A. ¿Qué es Salesforce?

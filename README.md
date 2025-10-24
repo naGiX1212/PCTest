@@ -19,11 +19,11 @@ Instalación del ambiente
 
 1. 
 
-    ![vscode](./img/vscode.png)
+   - ![vscode](./img/vscode.png)
 ---    
 2. 
 
-    ![git](./gif/gitbash.gif)
+   - ![git](./gif/gitbash.gif)
 ---
 ## EJERCICIO 2
 

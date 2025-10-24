@@ -1,7 +1,15 @@
 # PC3
 INDICE
 
+## Table of Contents
+- [Ejercicio 1](#-ejercicio-1)
+- [Ejercicio 2](#-ejercicio-2)
+- [Ejercicio 3](#-ejercicio-3)
+- [Ejercicio 4](#-ejercicio-4)
+- [Ejercicio 5](#-ejercicio-5)
+- [Ejercicio 6](#-ejercicio-6)
 
+## 🚀 About
 
 
 
@@ -61,13 +69,13 @@ Content-type en un header?
 ---
 
 ## EJERCICIO 6
-Responder las siguientes preguntas brevemente sobre:
-Soluciones de Salesforce
+Responder las siguientes preguntas brevemente sobre: Soluciones de Salesforce
 A. ¿Qué es Salesforce?
 B. ¿Qué es Sales Cloud?
 C. ¿Qué es Service Cloud?
 D. ¿Qué es Health Cloud?
 E. ¿Qué es Marketing Cloud?
+
 Funcionalidades de Salesforce
 A. ¿Qué es un RecordType?
 B. ¿Qué es un ReportType?

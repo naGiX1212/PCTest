@@ -9,9 +9,6 @@ INDICE
 - [Ejercicio 5](#-ejercicio-5)
 - [Ejercicio 6](#-ejercicio-6)
 
-## 🚀 About
-
-
 
 
 ---

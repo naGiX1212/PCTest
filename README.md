@@ -13,6 +13,7 @@ Año 2025
 - [Ejercicio 5](#ejercicio-5)
 - [Ejercicio 6](#ejercicio-6)
 
+---
 
 ## EJERCICIO 1
 Instalación del ambiente
@@ -20,7 +21,7 @@ Instalación del ambiente
 1. 
 
    - ![vscode](./img/vscode.png)
----    
+   
 2. 
 
    - ![git](./gif/gitbash.gif)

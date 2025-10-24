@@ -16,7 +16,6 @@ Año 2025
 ---
 
 ## EJERCICIO 1
-Instalación del ambiente
 
 ### VSCODE
 ![vscode](./img/vscode.png)

@@ -23,7 +23,7 @@ Content-type en un header?
 EJERCICIO 3
 
 1. Realizar un request GET a la URL:
-![alt text](image.png)
+![alt text](./img/getPostman.png)
 
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?

@@ -27,7 +27,7 @@ Año 2025
 
 ## EJERCICIO 2
 
-# RESPUESTAS
+### RESPUESTAS
 1. Es un servidor que utiliza el protocolo HTTP para el manejo de solicitudes
 2. Son comandos o tipos de solicitudes que un cliente o usuario le puede hacer a un servidor HTTP , estos son GET,PORT,PUT y DELETE.
 3. Un request es una solicitud que un cliente le realiza al servidor , un response es la respuesta que devuelve el servidor a la solicitud que mando el cliente.

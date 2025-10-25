@@ -44,15 +44,19 @@ Año 2025
 8. El verbo que utiliza el navegador cuando accedemos a una pagina es GET
 9.
    XML un lenguaje de marcado que usa etiquetas para estructurar y describir datos.
+  ```xml
    <usuario>
      <nombre>Joel</nombre>
      <estado>online</estado>
    </usuario>
+  ```
    JSON es un formato de texto ligero para representar datos estructurados, fácil de leer y procesar por humanos y máquinas.
+  ```json
    {
      "nombre": "Joel",
      "estado": "online"
    }
+  ```
 12. Explicar brevemente el estándar SOAP
 13. Explicar brevemente el estándar REST Full
 14. ¿Qué son los headers en un request? ¿Para qué se utiliza el key

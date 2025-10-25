@@ -27,25 +27,35 @@ Año 2025
 
 ## EJERCICIO 2
 
+
+### PREGUNTAS
 ### RESPUESTAS
 1. Es un servidor que utiliza el protocolo HTTP para el manejo de solicitudes
 2. Son comandos o tipos de solicitudes que un cliente o usuario le puede hacer a un servidor HTTP , estos son GET,PORT,PUT y DELETE.
 3. Un request es una solicitud que un cliente le realiza al servidor , un response es la respuesta que devuelve el servidor a la solicitud que mando el cliente.
-4. Los headers son informacion adicional que en envia al ocurrir un response o request , por ejemplo una fecha y hora de la solicitud , o el formato de texto utilizado.
+4. Los headers son informacion adicional que se envia al ocurrir un response o request , por ejemplo una fecha y hora de la solicitud , o el formato de texto utilizado.
 5. ¿Qué es un queryString? (En el contexto de una url)
 6. Es un codigo que me dice si ocurrio un fallo o la solicitud fue manejada de forma correcta por el servidor , tenemos por ejemplo :
    200 OK
    300 REDIRECCION
    400 ERROR SERVIDOR
    500 ERROR CLIENTE
-7. ¿Cómo se envía la data en un Get y cómo en un POST?
-8. ¿Qué verbo http utiliza el navegador cuando accedemos a una
-página?
-10. Explicar brevemente qué son las estructuras de datos JSON y XML
-dando ejemplo de estructuras posibles.
-11. Explicar brevemente el estándar SOAP
-12. Explicar brevemente el estándar REST Full
-13. ¿Qué son los headers en un request? ¿Para qué se utiliza el key
+7. La data para un GET se envia desde la URL , como por ejemplo localhost/Cliente?id=123. Mientras que los datos para realizar un POST se envian a traves de body , por ejemplo un JSON.
+8. El verbo que utiliza el navegador cuando accedemos a una pagina es GET
+9.
+   XML un lenguaje de marcado que usa etiquetas para estructurar y describir datos.
+   <usuario>
+     <nombre>Joel</nombre>
+     <estado>online</estado>
+   </usuario>
+   JSON es un formato de texto ligero para representar datos estructurados, fácil de leer y procesar por humanos y máquinas.
+   {
+     "nombre": "Joel",
+     "estado": "online"
+   }
+12. Explicar brevemente el estándar SOAP
+13. Explicar brevemente el estándar REST Full
+14. ¿Qué son los headers en un request? ¿Para qué se utiliza el key
 Content-type en un header?
 ---
 
@@ -86,7 +96,7 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 
 ## EJERCICIO 6
 Responder las siguientes preguntas brevemente sobre: Soluciones de Salesforce
-A. ¿Qué es Salesforce?
+A. Salesforce es un CRM que corre en la nube.
 B. ¿Qué es Sales Cloud?
 C. ¿Qué es Service Cloud?
 D. ¿Qué es Health Cloud?
@@ -112,9 +122,9 @@ O. ¿Para qué sirve la funcionalidad Chatter?
 
 
 Conceptos generales
-A. ¿Qué significa SaaS?
-B. ¿Salesforce es Saas?
-C. ¿Qué significa que una solución sea Cloud?
+A. Software as a Plataform
+B. Si Salesforce es SaaS
+C. Que corre en la nube , por ende el cliente no debera gastar en hardware.
 D. ¿Qué significa que una solución sea On-Premise?
 E. ¿Qué es un pipeline de ventas?
 F. ¿Qué es un funnel de ventas?

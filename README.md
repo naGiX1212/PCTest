@@ -27,21 +27,25 @@ Año 2025
 
 ## EJERCICIO 2
 
-1. ¿Qué es un servidor HTTP?
-2. ¿Qué son los verbos HTTP? Mencionar los más conocidos
-3. ¿Qué es un request y un response en una comunicación HTTP?
-¿Qué son los headers?
-4. ¿Qué es un queryString? (En el contexto de una url)
-5. ¿Qué es el responseCode? ¿Qué significado tiene los posibles
-valores devueltos?
-6. ¿Cómo se envía la data en un Get y cómo en un POST?
-7. ¿Qué verbo http utiliza el navegador cuando accedemos a una
+# RESPUESTAS
+1. Es un servidor que utiliza el protocolo HTTP para el manejo de solicitudes
+2. Son comandos o tipos de solicitudes que un cliente o usuario le puede hacer a un servidor HTTP , estos son GET,PORT,PUT y DELETE.
+3. Un request es una solicitud que un cliente le realiza al servidor , un response es la respuesta que devuelve el servidor a la solicitud que mando el cliente.
+4. Los headers son informacion adicional que en envia al ocurrir un response o request , por ejemplo una fecha y hora de la solicitud , o el formato de texto utilizado.
+5. ¿Qué es un queryString? (En el contexto de una url)
+6. Es un codigo que me dice si ocurrio un fallo o la solicitud fue manejada de forma correcta por el servidor , tenemos por ejemplo :
+   200 OK
+   300 REDIRECCION
+   400 ERROR SERVIDOR
+   500 ERROR CLIENTE
+7. ¿Cómo se envía la data en un Get y cómo en un POST?
+8. ¿Qué verbo http utiliza el navegador cuando accedemos a una
 página?
-8. Explicar brevemente qué son las estructuras de datos JSON y XML
+10. Explicar brevemente qué son las estructuras de datos JSON y XML
 dando ejemplo de estructuras posibles.
-9. Explicar brevemente el estándar SOAP
-10. Explicar brevemente el estándar REST Full
-11. ¿Qué son los headers en un request? ¿Para qué se utiliza el key
+11. Explicar brevemente el estándar SOAP
+12. Explicar brevemente el estándar REST Full
+13. ¿Qué son los headers en un request? ¿Para qué se utiliza el key
 Content-type en un header?
 ---
 
@@ -59,7 +63,7 @@ Content-type en un header?
 ![getAfter](./img/getPostmanAfter.png)
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
-
+En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es debido al POST que realice con mis datos en el paso 2.
 ---
 ## EJERCICIO 4
 [![salesForce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ytp32goxlbrkzkzx8h)

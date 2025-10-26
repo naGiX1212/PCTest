@@ -28,21 +28,24 @@ Año 2025
 ## EJERCICIO 2
 
 
-### PREGUNTAS
 ### RESPUESTAS
-1. Es un servidor que utiliza el protocolo HTTP para el manejo de solicitudes
-2. Son comandos o tipos de solicitudes que un cliente o usuario le puede hacer a un servidor HTTP , estos son GET,PORT,PUT y DELETE.
-3. Un request es una solicitud que un cliente le realiza al servidor , un response es la respuesta que devuelve el servidor a la solicitud que mando el cliente.
-4. Los headers son informacion adicional que se envia al ocurrir un response o request , por ejemplo una fecha y hora de la solicitud , o el formato de texto utilizado.
-5. ¿Qué es un queryString? (En el contexto de una url)
-6. Es un codigo que me dice si ocurrio un fallo o la solicitud fue manejada de forma correcta por el servidor , tenemos por ejemplo :
+1. Es un servidor que utiliza el protocolo HTTP para el manejo de solicitudes.
+2. Son comandos o tipos de solicitudes que un cliente o usuario le puede hacer a un servidor HTTP.
+   GET : Obtener informacion
+   POST : Insertar informacion
+   DELETE : Eliminar informacion
+   PUT : Modificar o Remplazar informacion
+4. Un request es una solicitud que un cliente le realiza al servidor , un response es la respuesta que devuelve el servidor a la request que le mando el cliente.
+5. Los headers son informacion adicional que se envia al ocurrir un response o request , por ejemplo una fecha y hora de la solicitud , o el formato de texto utilizado.
+6. ¿Qué es un queryString? (En el contexto de una url)
+7. Es un codigo que me dice si ocurrio un fallo o la solicitud fue manejada de forma correcta por el servidor , tenemos por ejemplo :
    200 OK
    300 REDIRECCION
    400 ERROR SERVIDOR
    500 ERROR CLIENTE
-7. La data para un GET se envia desde la URL , como por ejemplo localhost/Cliente?id=123. Mientras que los datos para realizar un POST se envian a traves de body , por ejemplo un JSON.
-8. El verbo que utiliza el navegador cuando accedemos a una pagina es GET
-9.
+8. La data para un GET se envia desde la URL , como por ejemplo localhost/Cliente?id=123. Mientras que los datos para realizar un POST se envian a traves de body , por ejemplo un JSON.
+9. El verbo que utiliza el navegador cuando accedemos a una pagina es GET
+10.
    XML un lenguaje de marcado que usa etiquetas para estructurar y describir datos.
   ```xml
    <usuario>
@@ -78,6 +81,7 @@ Content-type en un header?
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es debido al POST que realice con mis datos en el paso 2.
+
 ---
 ## EJERCICIO 4
 [![salesForce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ytp32goxlbrkzkzx8h)

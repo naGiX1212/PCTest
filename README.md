@@ -60,9 +60,9 @@ Mientras que los datos para realizar un **POST** se envían a través del **body
   "edad": 25
 }
 ```
-9. El verbo que utiliza el navegador cuando accedemos a una pagina es GET
-   
-10.XML un lenguaje de marcado que usa etiquetas para estructurar y describir datos.
+9. El verbo que utiliza el navegador cuando accedemos a una pagina es GET.
+
+10. XML un lenguaje de marcado que usa etiquetas para estructurar y describir datos.
   ```xml
    <usuario>
      <nombre>Joel</nombre>
@@ -204,7 +204,7 @@ Badges
 **Concepto:** Documento de conocimiento o solución a un problema.  
 **Datos estándar:** Título, contenido, categoría, estado.  
 **Relaciones:**  
--No se relaciona de forma directa con ninguna las 9 restantes.
+-No se relaciona de forma directa con ninguna de las 9 restantes.
 
 ---
 ![relaciones](./img/relaciones.png)

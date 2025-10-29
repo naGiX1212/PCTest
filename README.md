@@ -100,7 +100,10 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 
 ---
 ## EJERCICIO 4
-[![salesForce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ytp32goxlbrkzkzx8h)
+Usuario [![salesForce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ytp32goxlbrkzkzx8h)
+
+Badges
+![badges](./img/badges.png)
 
 ---
 ## EJERCICIO 5

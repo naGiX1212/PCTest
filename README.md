@@ -101,7 +101,7 @@ El header Content-Type se utiliza para indicar el formato del contenido que se e
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 
-En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es debido al POST que realice con mis datos en el paso 2.
+En el paso 3 aparecen mis datos que no estaban presentes en el paso 1 , esto es debido al POST que realice con mis datos en el paso 2.
 
 ---
 ## Ejercicio 4

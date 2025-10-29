@@ -1,6 +1,6 @@
 <p align="center">
   <a href="">
-    <img alt="ProContacto" title="ProContacto" src="./img/logov2.jpeg" width="450">
+    <img alt="ProContacto" title="ProContacto" src="./img/logov2.png" width="450">
   </a>
 </p>
 

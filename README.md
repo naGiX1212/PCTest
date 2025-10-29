@@ -211,6 +211,7 @@ En el paso 3 aparecen mis datos, los cuales no estaban presentes en el paso 1. E
 -No se relaciona de forma directa con ninguna de las 9 restantes.
 
 ---
+### Diagrama
 ![relaciones](./img/relaciones.png)
 
 ---

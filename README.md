@@ -186,6 +186,7 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 -No se relaciona de forma directa con ninguna del las 9 restantes.
 
 ---
+![relaciones](./img/relaciones.png)
 
 ---
 

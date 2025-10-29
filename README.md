@@ -19,7 +19,7 @@ Año 2025
 
 ---
 
-## EJERCICIO 1
+## Ejercicio 1
 
 ### VSCODE
 ![vscode](./img/vscode.png)
@@ -29,7 +29,7 @@ Año 2025
 ![git](./gif/gitbash.gif)
 ---
 
-## EJERCICIO 2
+## Ejercicio 2
 
 1. Es un **servidor** que utiliza el **protocolo HTTP** para el manejo de solicitudes.
 
@@ -86,7 +86,7 @@ Mientras que los datos para realizar un **POST** se envían a través del **body
 El header Content-Type se utiliza para indicar el formato del contenido que se envía en el cuerpo del request, por ejemplo application/json si los datos están en formato JSON o application/xml si están en XML.
 ---
 
-## EJERCICIO 3
+## Ejercicio 3
 
 1. Realizar un request GET a la URL:
 ![getBefore](./img/getPostmanBefore.png)
@@ -104,14 +104,14 @@ El header Content-Type se utiliza para indicar el formato del contenido que se e
 En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es debido al POST que realice con mis datos en el paso 2.
 
 ---
-## EJERCICIO 4
+## Ejercicio 4
 [![salesForce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ytp32goxlbrkzkzx8h)
 
 
 ![badges](./img/badges.png)
 
 ---
-## EJERCICIO 5
+## Ejercicio 5
 
 ### 1. Lead
 **Concepto:** Representa un prospecto o posible cliente.  
@@ -216,7 +216,7 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 ---
 
 
-## EJERCICIO 6
+## Ejercicio 6
 
 ##  Salesforce – Conceptos y Funcionalidades
 

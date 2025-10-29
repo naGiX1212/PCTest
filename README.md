@@ -279,7 +279,7 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 
 ### 🌐 Conceptos Generales
 
-**A. Software as a Platform (PaaS):es una forma de ofrecer aplicaciones de forma remota por internet en lugar de hacerlo de forma local(ejemplo: Salesforce).  
+**A. Software as a Platform (PaaS)**:es una forma de ofrecer aplicaciones de forma remota por internet en lugar de hacerlo de forma local(ejemplo: Salesforce).  
 
 **B. Salesforce es SaaS:** Sí, porque ofrece software listo para usar desde la nube (sin instalación local).  
 

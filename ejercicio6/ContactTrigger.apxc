@@ -1,0 +1,16 @@
+trigger ContactTrigger on Contact (after insert, after update) {
+    if (!TriggerControl.isRunning) {
+        TriggerControl.isRunning = true;
+
+        List<Id> ids = new List<Id>();
+        for (Contact c : Trigger.new) {
+            if (c.idprocontacto__c != null) {
+                ids.add(c.Id);              
+            }  
+        }
+
+        if (!ids.isEmpty()) {
+            System.enqueueJob(new ContactTriggerHandler(ids));
+        }
+    }
+}

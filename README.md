@@ -61,6 +61,7 @@ Mientras que los datos para realizar un **POST** se envían a través del **body
 }
 ```
 9. El verbo que utiliza el navegador cuando accedemos a una pagina es GET
+   
 10.XML un lenguaje de marcado que usa etiquetas para estructurar y describir datos.
   ```xml
    <usuario>

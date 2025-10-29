@@ -5,6 +5,8 @@
 Joel Murillo
 Año 2025
 
+:loudspeaker: En caso de que no funcionen las imagenes dejo un [PDF](./gitpdf.pdf) con las imagenes ya cargadas.
+
 ## Tabla de indices
 - [Ejercicio 1](#ejercicio-1)
 - [Ejercicio 2](#ejercicio-2)

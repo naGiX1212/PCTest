@@ -214,9 +214,9 @@ Badges
 
 ## EJERCICIO 6
 
-## 🧠 Salesforce – Conceptos y Funcionalidades
+##  Salesforce – Conceptos y Funcionalidades
 
-### 🧩 Soluciones de Salesforce
+###  Soluciones de Salesforce
 
 **A. Salesforce es un **CRM (Customer Relationship Management)** que corre en la nube. Permite gestionar clientes, ventas y servicios desde cualquier lugar.  
 
@@ -230,7 +230,7 @@ Badges
 
 ---
 
-### ⚙️ Funcionalidades de Salesforce
+###  Funcionalidades de Salesforce
 
 **A. RecordType:** Define **diferentes tipos de registros** dentro de un mismo objeto, con layouts, procesos y picklists distintos.  
 
@@ -266,7 +266,7 @@ Badges
 
 ---
 
-### 🌐 Conceptos Generales
+###  Conceptos Generales
 
 **A. Software as a Platform (PaaS)**:es una forma de ofrecer aplicaciones de forma remota por internet en lugar de hacerlo de forma local(ejemplo: Salesforce).  
 

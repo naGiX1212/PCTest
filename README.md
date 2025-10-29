@@ -27,11 +27,6 @@ Año 2025
 
 ## EJERCICIO 2
 
-
-# 🧠 RESPUESTAS HTTP, SOAP y REST
-
-## 🌍 Conceptos generales
-
 1. Es un **servidor** que utiliza el **protocolo HTTP** para el manejo de solicitudes.
 
 2. Son **comandos o tipos de solicitudes** que un cliente o usuario le puede hacer a un servidor HTTP:
@@ -46,15 +41,9 @@ Año 2025
 5. Los **headers** son información adicional que se envía al ocurrir un request o response.  
    Por ejemplo: la fecha y hora de la solicitud, o el formato de texto utilizado.
 
----
-
-## ❓ Query String
-
 6. **¿Qué es un queryString?**  
    Es la parte de una URL que contiene **parámetros adicionales** enviados al servidor, después del signo `?`.  
    Ejemplo: https://example.com/cliente?id=123&nombre=Joel
----
-## ⚙️ Códigos de estado HTTP
 
 7. Es un **código de estado HTTP** que indica si la solicitud fue manejada correctamente o si ocurrió un fallo:
 
@@ -62,10 +51,6 @@ Año 2025
 - `300 REDIRECCIÓN` → El recurso fue movido o redirigido  
 - `400 ERROR CLIENTE` → Solicitud incorrecta  
 - `500 ERROR SERVIDOR` → Fallo interno del servidor  
-
----
-
-## 📨 Envío de datos en solicitudes
 
 8. La **data para un GET** se envía desde la **URL**, por ejemplo:localhost/Cliente?id=123
 Mientras que los datos para realizar un **POST** se envían a través del **body**, por ejemplo:  

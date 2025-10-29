@@ -60,8 +60,9 @@ Mientras que los datos para realizar un **POST** se envían a través del **body
   "edad": 25
 }
 ```
-9. El verbo que utiliza el navegador cuando accedemos a una pagina es GET
-10.XML un lenguaje de marcado que usa etiquetas para estructurar y describir datos.
+9. El verbo que utiliza el navegador cuando accedemos a una pagina es GET.
+
+10. XML un lenguaje de marcado que usa etiquetas para estructurar y describir datos.
   ```xml
    <usuario>
      <nombre>Joel</nombre>
@@ -101,6 +102,9 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 ---
 ## EJERCICIO 4
 [![salesForce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ytp32goxlbrkzkzx8h)
+
+
+![badges](./img/badges.png)
 
 ---
 ## EJERCICIO 5
@@ -200,7 +204,7 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 **Concepto:** Documento de conocimiento o solución a un problema.  
 **Datos estándar:** Título, contenido, categoría, estado.  
 **Relaciones:**  
--No se relaciona de forma directa con ninguna las 9 restantes.
+-No se relaciona de forma directa con ninguna de las 9 restantes.
 
 ---
 ![relaciones](./img/relaciones.png)
@@ -210,9 +214,9 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 
 ## EJERCICIO 6
 
-## 🧠 Salesforce – Conceptos y Funcionalidades
+##  Salesforce – Conceptos y Funcionalidades
 
-### 🧩 Soluciones de Salesforce
+###  Soluciones de Salesforce
 
 **A. Salesforce es un **CRM (Customer Relationship Management)** que corre en la nube. Permite gestionar clientes, ventas y servicios desde cualquier lugar.  
 
@@ -226,7 +230,7 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 
 ---
 
-### ⚙️ Funcionalidades de Salesforce
+###  Funcionalidades de Salesforce
 
 **A. RecordType:** Define **diferentes tipos de registros** dentro de un mismo objeto, con layouts, procesos y picklists distintos.  
 
@@ -262,7 +266,7 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 
 ---
 
-### 🌐 Conceptos Generales
+###  Conceptos Generales
 
 **A. Software as a Platform (PaaS)**:es una forma de ofrecer aplicaciones de forma remota por internet en lugar de hacerlo de forma local(ejemplo: Salesforce).  
 

@@ -220,7 +220,7 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 
 ###  Soluciones de Salesforce
 
-**A. Salesforce es un **CRM (Customer Relationship Management)** que corre en la nube. Permite gestionar clientes, ventas y servicios desde cualquier lugar.  
+**A. Salesforce**: es un **CRM (Customer Relationship Management)** que corre en la nube. Permite gestionar clientes, ventas y servicios desde cualquier lugar.  
 
 **B. Sales Cloud:** Solución enfocada en **ventas**. Permite gestionar Leads, Cuentas, Contactos, Oportunidades y Pronósticos de venta.  
 

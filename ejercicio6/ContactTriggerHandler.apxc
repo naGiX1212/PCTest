@@ -1,0 +1,29 @@
+public class ContactTriggerHandler implements Queueable, Database.AllowsCallouts {
+
+    private List<Id> contactIds;
+
+    public ContactTriggerHandler(List<Id> contactIds) {
+        this.contactIds = contactIds;
+    }
+
+    public void execute(QueueableContext context) {
+        List<Contact> contacts = [SELECT Id, idprocontacto__c FROM Contact WHERE Id IN :contactIds];
+        Http http = new Http();
+
+        for (Contact c : contacts) {
+            if (String.isBlank(c.idprocontacto__c)) continue;
+
+            HttpRequest req = new HttpRequest();
+            req.setMethod('GET');
+            req.setEndpoint('https://procontacto-reclutamiento-default-rtdb.firebaseio.com/contacts/' + c.idprocontacto__c + '.json');
+                HttpResponse res = http.send(req);
+                if (res.getStatusCode() == 200) {
+                    Map<String, Object> results = (Map<String, Object>) JSON.deserializeUntyped(res.getBody());
+                    String email = (String) results.get('email');
+                    c.Email = email;
+                }
+         
+        }
+            update contacts;
+    }
+}

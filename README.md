@@ -1,6 +1,8 @@
-![logo](./img/logo.jpeg)
-
-# PC
+<p align="center">
+  <a href="">
+    <img alt="ProContacto" title="ProContacto" src="./img/logov2.jpeg" width="450">
+  </a>
+</p>
 
 Joel Murillo
 Año 2025

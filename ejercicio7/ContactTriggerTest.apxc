@@ -6,8 +6,8 @@ private class ContactTriggerTest {
         Test.setMock(HttpCalloutMock.class, new ProcontactoMock());
 
         // Crear contactos de prueba
-        Contact c1 = new Contact(FirstName='Test', LastName='User', idprocontacto__c='-OcLu61WwhTu1pbxr8Eg');
-        Contact c2 = new Contact(FirstName='NoCallout', LastName='User'); // sin idprocontacto
+        Contact c1 = new Contact(FirstName='User1', LastName='Ln1', idprocontacto__c='-OcLu61WwhTu1pbxr8Eg');
+        Contact c2 = new Contact(FirstName='User2', LastName='Ln2'); // sin idprocontacto
 
         Test.startTest();
             insert new List<Contact>{c1, c2, c3};

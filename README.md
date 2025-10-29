@@ -192,46 +192,95 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 
 
 ## EJERCICIO 6
-Responder las siguientes preguntas brevemente sobre: Soluciones de Salesforce
-A. Salesforce es un CRM que corre en la nube.
-B. ¿Qué es Sales Cloud?
-C. ¿Qué es Service Cloud?
-D. ¿Qué es Health Cloud?
-E. ¿Qué es Marketing Cloud?
 
-Funcionalidades de Salesforce
-A. ¿Qué es un RecordType?
-B. ¿Qué es un ReportType?
-C. ¿Qué es un Page Layout?
-D. ¿Qué es un Compact Layout?
-E. ¿Qué es un Perfil?
-F. ¿Qué es un Rol?
-G. ¿Qué es un Validation Rule?
-H. ¿Qué diferencia hay entre una relación Master Detail y Lookup?
-I. ¿Qué es un Sandbox?
-J. ¿Qué es un ChangeSet?
-K. ¿Para qué sirve el import Wizard de Salesforce?
-L. ¿Para qué sirve la funcionalidad Web to Lead?
-M. ¿Para qué sirve la funcionalidad Web to Case?
-N. ¿Para qué sirve la funcionalidad Omnichannel?
-O. ¿Para qué sirve la funcionalidad Chatter?
+## 🧠 Salesforce – Conceptos y Funcionalidades
+
+### 🧩 Soluciones de Salesforce
+
+**A.** Salesforce es un **CRM (Customer Relationship Management)** que corre en la nube. Permite gestionar clientes, ventas y servicios desde cualquier lugar.  
+
+**B. Sales Cloud:** Solución enfocada en **ventas**. Permite gestionar Leads, Cuentas, Contactos, Oportunidades y Pronósticos de venta.  
+
+**C. Service Cloud:** Solución para **atención al cliente y soporte**. Permite manejar Casos, SLA, Chat, Knowledge Articles y Omnichannel.  
+
+**D. Health Cloud:** Plataforma de Salesforce adaptada al **sector salud**, que gestiona pacientes con sus respectivos historiales y relaciones medico-paciente.  
+
+**E. Marketing Cloud:** Solución para **marketing digital y automatización**, que gestiona campañas, segmentaciones y comunicación (email, SMS, redes sociales).  
+
+---
+
+### ⚙️ Funcionalidades de Salesforce
+
+**A. RecordType:** Define **diferentes tipos de registros** dentro de un mismo objeto, con layouts, procesos y picklists distintos.  
+
+**B. ReportType:** Determina **qué objetos y relaciones** se incluyen en un reporte. Es la base sobre la que se crean los informes.  
+
+**C. Page Layout:** Define **qué campos, secciones y botones** se muestran en la vista de detalle de un registro.  
+
+**D. Compact Layout:** Muestra **campos clave en la parte superior** del registro (vista destacada en móviles y Lightning).  
+
+**E. Perfil:** Controla **permisos de acceso** a objetos, campos, pestañas y funciones dentro del sistema.  
+
+**F. Rol (Role):** Define la **jerarquía de visibilidad de datos** entre usuarios (quién puede ver los registros de quién).  
+
+**G. Validation Rule:** Regla que **valida datos antes de guardar** un registro (por ejemplo evitar datos inconsistentes).  
+
+**H. Master Detail vs Lookup:**  
+- **Master-Detail:** Relación fuerte; el detalle depende del maestro (si el maestro se borra, el detalle tambien).  
+- **Lookup:** Relación débil; los registros son independientes.  
+
+**I. Sandbox:** Copia del entorno de producción para **probar, desarrollar o capacitar** sin afectar los datos reales.  
+
+**J. ChangeSet:** Mecanismo para **migrar configuraciones y código** entre entornos Salesforce (por ejemplo, de Sandbox a Producción).  
+
+**K. Import Wizard:** Herramienta para **importar datos** (Leads, Accounts, Contacts, etc.) desde archivos CSV.  
+
+**L. Web to Lead:** Permite **crear Leads automáticamente** desde formularios web públicos.  
+
+**M. Web to Case:** Permite **crear Casos automáticamente** desde formularios web de soporte.  
+
+**N. Omnichannel:** Distribuye automáticamente **Casos, Chats o Tareas** al agente más disponible o adecuado.  
+
+**O. Chatter:** Red social interna para **colaboración entre empleados**, comentarios, publicaciones y seguimientos.  
+
+---
+
+### 🌐 Conceptos Generales
+
+**A. Software as a Platform (PaaS):es una forma de ofrecer aplicaciones de forma remota por internet en lugar de hacerlo de forma local(ejemplo: Salesforce).  
+
+**B. Salesforce es SaaS:** Sí, porque ofrece software listo para usar desde la nube (sin instalación local).  
+
+**C. Corre en la nube:** El cliente no necesita hardware propio, para correr la solucion , sino que esta corre en servidores distribuidos por todo el mundo.  
+
+**D. Solución On-Premise:** Software que se **instala y mantiene localmente** en los servidores del cliente.  
+
+**E. Pipeline de ventas:** el pipeline representa las diferentes etapas por las que debe pasar el potencial cliente para adquirir el producto o servicio.
+
+**F. Funnel de ventas:** Un embudo de ventas es una representación visual del recorrido que realiza un cliente desde el primer instante que entra en contacto con una marca, hasta que finalmente toma una decisión de compra. 
+
+**G. Customer Experience:** La percepción global del cliente sobre una marca a lo largo de todas sus interacciones.  
+
+**H. Omnicanalidad:** es un enfoque unificado del comercio que integra varios canales de venta y marketing en línea y fuera de línea para ofrecer a los clientes una experiencia de compra perfecta.  
+
+**I. B2B y B2C / KPI:**  
+- B2B: Negocio entre empresas.  
+- B2C: Negocio directo con consumidores finales.  
+- KPI (Key Performance Indicator):Métrica usada para medir el rendimiento de un proceso o meta.  
+
+**J. API y REST API:**  
+- **API:** Interfaz para que sistemas intercambien datos.  
+- **REST API:** Tipo de API basada en **HTTP y JSON**.  
+
+**K. Proceso Batch:** Proceso que **ejecuta grandes volúmenes de datos** en segundo plano o en lotes.  
+
+**L. Kanban:** Vista visual de registros **organizados por etapa o estado**.  
+
+**M. ERP:** Sistema para **gestionar recursos empresariales** (finanzas, compras, inventarios, RRHH).  
+
+**N. Salesforce es un ERP:** No. Es un CRM aunque puede integrarse con ERPs o tener funciones similares mediante extensiones.  
+
+---
 
 
-
-Conceptos generales
-A. Software as a Plataform
-B. Si Salesforce es SaaS
-C. Que corre en la nube , por ende el cliente no debera gastar en hardware.
-D. ¿Qué significa que una solución sea On-Premise?
-E. ¿Qué es un pipeline de ventas?
-F. ¿Qué es un funnel de ventas?
-G. ¿Qué significa Customer Experience?
-H. ¿Qué significa omnicanalidad?
-I. ¿Qué significa que un negocio sea B2B?¿Qué significa que un negocio sea
-B2C?¿Qué es un KPI?
-J. ¿Qué es una API y en qué se diferencia de una Rest API?
-K. ¿Qué es un Proceso Batch?
-L. ¿Qué es Kanban?
-M. ¿Qué es un ERP?
-N. ¿Salesforce es un ERP?
 

@@ -1,0 +1,9 @@
+public with sharing class ProContactoMock implements HttpCalloutMock {
+    public HTTPResponse respond(HTTPRequest req) {
+        // Crear una respuesta simulada
+        HttpResponse res = new HttpResponse();
+        res.setStatusCode(200);
+        res.setBody('{"email": "joel.murillo@procontacto.com.mx"}');
+        return res;
+    }
+}

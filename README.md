@@ -8,9 +8,13 @@ Joel Murillo
 Año 2025
 
 :loudspeaker: En caso de que no funcionen las imagenes dejo un pdf con dos alternativas para acceder a el. 
-[PDF en el repo](./gitpdf.pdf)
 
-[Pdf en drive]([https://drive.google.com](https://drive.google.com/drive/folders/1zK0kMcq-wtxHkYW1kW8W6vnwSCVQBRKS?usp=sharing))
+[PDF en el Repo](./gitpdf.pdf)
+
+[PDF en Drive](https://drive.google.com/drive/folders/1zK0kMcq-wtxHkYW1kW8W6vnwSCVQBRKS?usp=sharing)
+
+
+
 ## Tabla de indices
 - [Ejercicio 1](#ejercicio-1)
 - [Ejercicio 2](#ejercicio-2)

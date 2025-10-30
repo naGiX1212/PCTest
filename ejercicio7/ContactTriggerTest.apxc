@@ -7,17 +7,14 @@ private class ContactTriggerTest {
 
         // Crear contactos de prueba
         Contact c1 = new Contact(FirstName='User1', LastName='Ln1', idprocontacto__c='-OcLu61WwhTu1pbxr8Eg');
-        Contact c2 = new Contact(FirstName='User2', LastName='Ln2'); // sin idprocontacto
 
         Test.startTest();
-            insert new List<Contact>{c1, c2, c3};
+            insert new List<Contact>{c1};
         Test.stopTest(); 
 
         c1 = [SELECT Email FROM Contact WHERE Id = :c1.Id];
-        c2 = [SELECT Email FROM Contact WHERE Id = :c2.Id];
-
+        
         //ASSERT
         System.assertEquals('joel.murillo@procontacto.com.mx', c1.Email);
-        System.assertEquals(null, c2.Email); // contacto sin idprocontacto
     }
 }

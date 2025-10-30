@@ -7,7 +7,13 @@
 Joel Murillo
 Año 2025
 
-:loudspeaker: En caso de que no funcionen las imagenes dejo un [PDF](./gitpdf.pdf) con las imagenes ya cargadas.
+:loudspeaker: En caso de que no funcionen las imagenes dejo un pdf con dos alternativas para acceder a el. 
+
+[PDF en el Repo](./gitpdf.pdf)
+
+[PDF en Drive](https://drive.google.com/drive/folders/1zK0kMcq-wtxHkYW1kW8W6vnwSCVQBRKS?usp=sharing)
+
+
 
 ## Tabla de indices
 - [Ejercicio 1](#ejercicio-1)
@@ -19,7 +25,7 @@ Año 2025
 
 ---
 
-## EJERCICIO 1
+## Ejercicio 1
 
 ### VSCODE
 ![vscode](./img/vscode.png)
@@ -29,7 +35,7 @@ Año 2025
 ![git](./gif/gitbash.gif)
 ---
 
-## EJERCICIO 2
+## Ejercicio 2
 
 1. Es un **servidor** que utiliza el **protocolo HTTP** para el manejo de solicitudes.
 
@@ -40,23 +46,21 @@ Año 2025
    - **DELETE:** Eliminar información  
    - **PUT:** Modificar o reemplazar información  
 
-4. Un **request** es una solicitud que un cliente le realiza al servidor, y un **response** es la respuesta que devuelve el servidor a esa solicitud.
-
-5. Los **headers** son información adicional que se envía al ocurrir un request o response.  
+3. Un **request** es una solicitud que un cliente le realiza al servidor, y un **response** es la respuesta que devuelve el servidor a esa solicitud.Los **headers** son información adicional que se envía al ocurrir un request o response.  
    Por ejemplo: la fecha y hora de la solicitud, o el formato de texto utilizado.
 
-6. **¿Qué es un queryString?**  
+4. **¿Qué es un queryString?**  
    Es la parte de una URL que contiene **parámetros adicionales** enviados al servidor, después del signo `?`.  
    Ejemplo: https://example.com/cliente?id=123&nombre=Joel
 
-7. Es un **código de estado HTTP** que indica si la solicitud fue manejada correctamente o si ocurrió un fallo:
+5. Es un **código de estado HTTP** que indica si la solicitud fue manejada correctamente o si ocurrió un fallo:
 
 - `200 OK` → Solicitud exitosa  
 - `300 REDIRECCIÓN` → El recurso fue movido o redirigido  
 - `400 ERROR CLIENTE` → Solicitud incorrecta  
 - `500 ERROR SERVIDOR` → Fallo interno del servidor  
 
-8. La **data para un GET** se envía desde la **URL**, por ejemplo:localhost/Cliente?id=123
+6. La **data para un GET** se envía desde la **URL**, por ejemplo:localhost/Cliente?id=123
 Mientras que los datos para realizar un **POST** se envían a través del **body**, por ejemplo:  
 ```json
 {
@@ -64,9 +68,9 @@ Mientras que los datos para realizar un **POST** se envían a través del **body
   "edad": 25
 }
 ```
-9. El verbo que utiliza el navegador cuando accedemos a una pagina es GET.
+7. El verbo que utiliza el navegador cuando accedemos a una pagina es GET.
 
-10. XML un lenguaje de marcado que usa etiquetas para estructurar y describir datos.
+8. XML es un lenguaje de marcado que usa etiquetas para estructurar y describir datos.
   ```xml
    <usuario>
      <nombre>Joel</nombre>
@@ -80,13 +84,14 @@ Mientras que los datos para realizar un **POST** se envían a través del **body
      "estado": "online"
    }
   ```
-12. SOAP es un protocolo de comunicación que utiliza mensajes en formato XML para intercambiar información entre aplicaciones a través de la red. Define una estructura estricta y suele usarse en entornos empresariales donde se requiere seguridad y confiabilidad.
-13. REST es un estilo de arquitectura que usa los métodos estándar de HTTP (GET, POST, PUT, DELETE) para acceder y manipular recursos a través de URLs. Es más liviano que SOAP y generalmente utiliza el formato JSON para enviar y recibir datos.
-14. Los headers son parte de una solicitud HTTP y contienen información adicional o metadatos sobre la petición, como la autenticación, el tipo de contenido o la longitud de los datos enviados.
+9. SOAP es un protocolo de comunicación que utiliza mensajes en formato XML para intercambiar información entre aplicaciones a través de la red. Define una estructura estricta y suele usarse en entornos empresariales donde se requiere seguridad y confiabilidad.
+10. REST es un estilo de arquitectura que usa los métodos estándar de HTTP (GET, POST, PUT, DELETE) para acceder y manipular recursos a través de URLs. Es más liviano que SOAP y generalmente utiliza el formato JSON para enviar y recibir datos.
+11. Los headers en un request contienen información adicional o metadatos sobre la petición, como la autenticación, el tipo de contenido o la longitud de los datos enviados.
 El header Content-Type se utiliza para indicar el formato del contenido que se envía en el cuerpo del request, por ejemplo application/json si los datos están en formato JSON o application/xml si están en XML.
+
 ---
 
-## EJERCICIO 3
+## Ejercicio 3
 
 1. Realizar un request GET a la URL:
 ![getBefore](./img/getPostmanBefore.png)
@@ -101,17 +106,17 @@ El header Content-Type se utiliza para indicar el formato del contenido que se e
 
 ¿Qué diferencias se observan entre las llamadas el punto 1 y 3?
 
-En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es debido al POST que realice con mis datos en el paso 2.
+En el paso 3 aparecen mis datos, los cuales no estaban presentes en el paso 1. Esto se debe al POST que realicé con mis datos en el paso 2.
 
 ---
-## EJERCICIO 4
+## Ejercicio 4
 [![salesForce](https://img.shields.io/badge/Salesforce-00A1E0.svg?style=for-the-badge&logo=Salesforce&logoColor=white)](https://www.salesforce.com/trailblazer/ytp32goxlbrkzkzx8h)
 
 
 ![badges](./img/badges.png)
 
 ---
-## EJERCICIO 5
+## Ejercicio 5
 
 ### 1. Lead
 **Concepto:** Representa un prospecto o posible cliente.  
@@ -211,14 +216,13 @@ En el paso 3 aparece un nombre que no estaba presente en el paso 1 , esto es deb
 -No se relaciona de forma directa con ninguna de las 9 restantes.
 
 ---
+### Diagrama
 ![relaciones](./img/relaciones.png)
 
 ---
 
 
-## EJERCICIO 6
-
-##  Salesforce – Conceptos y Funcionalidades
+## Ejercicio 6
 
 ###  Soluciones de Salesforce
 

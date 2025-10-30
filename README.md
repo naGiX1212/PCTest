@@ -86,8 +86,9 @@ Mientras que los datos para realizar un **POST** se envían a través del **body
   ```
 9. SOAP es un protocolo de comunicación que utiliza mensajes en formato XML para intercambiar información entre aplicaciones a través de la red. Define una estructura estricta y suele usarse en entornos empresariales donde se requiere seguridad y confiabilidad.
 10. REST es un estilo de arquitectura que usa los métodos estándar de HTTP (GET, POST, PUT, DELETE) para acceder y manipular recursos a través de URLs. Es más liviano que SOAP y generalmente utiliza el formato JSON para enviar y recibir datos.
-11.Los headers en un GET contienen información adicional o metadatos sobre la petición, como la autenticación, el tipo de contenido o la longitud de los datos enviados.
+11. Los headers en un GET contienen información adicional o metadatos sobre la petición, como la autenticación, el tipo de contenido o la longitud de los datos enviados.
 El header Content-Type se utiliza para indicar el formato del contenido que se envía en el cuerpo del request, por ejemplo application/json si los datos están en formato JSON o application/xml si están en XML.
+
 ---
 
 ## Ejercicio 3

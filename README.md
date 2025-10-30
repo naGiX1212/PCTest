@@ -223,8 +223,6 @@ En el paso 3 aparecen mis datos, los cuales no estaban presentes en el paso 1. E
 
 ## Ejercicio 6
 
-##  Salesforce – Conceptos y Funcionalidades
-
 ###  Soluciones de Salesforce
 
 **A. Salesforce**: es un **CRM (Customer Relationship Management)** que corre en la nube. Permite gestionar clientes, ventas y servicios desde cualquier lugar.  
